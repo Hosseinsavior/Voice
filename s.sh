@@ -1,2 +1,2 @@
 pip install -U -r requirements.txt
-python3 -m C
+python3 -m Codexun
